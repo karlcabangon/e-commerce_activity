@@ -8,4 +8,9 @@
 </p>
 
 ## guitar shop
+![alt text](https://github.com/karlcabangon/e-commerce_activity/blob/master/e-commerce_shopping_cart/screen_shot/products.PNG)
+![alt text](https://github.com/karlcabangon/e-commerce_activity/blob/master/e-commerce_shopping_cart/screen_shot/items_on_cart.PNG)
+![alt text](https://github.com/karlcabangon/e-commerce_activity/blob/master/e-commerce_shopping_cart/screen_shot/view_cart.PNG)
+![alt text](https://github.com/karlcabangon/e-commerce_activity/blob/master/e-commerce_shopping_cart/screen_shot/checkout.PNG)
+![alt text](https://github.com/karlcabangon/e-commerce_activity/blob/master/e-commerce_shopping_cart/screen_shot/thankyou_page.PNG)
 ![alt text](https://github.com/karlcabangon/e-commerce_activity/blob/master/e-commerce_shopping_cart/screen_shot/invoice.PNG)
